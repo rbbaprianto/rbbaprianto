@@ -20,7 +20,7 @@ or use it. It helps me a lot.
 
 ---
 
-<img align="right" alt="GIF" src="https://github.com/rbbaprianto/rbbaprianto.github.io/blob/main/images/code.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/rbbaprianto/rbbaprianto/blob/main/images/code.gif" width="500" height="320" />
 
 ## Hello world!
 
