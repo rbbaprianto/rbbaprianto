@@ -10,7 +10,7 @@ or use it. It helps me a lot.
 </head>
 
 <h3 style:"font-family: 'Titillium Web', sans-serif;">A Computer enthusiast who is passionate about linux, virtualization, and open source. I love to learn and contribute in any and every possible way.</h3>
-<i>Please go through my profile and feel free to clone/fork <a href="https://github.com/pycoder2000">projects</a>, raise issues and submit PRs if you think something could be better. Also you can mail to me <a href="mailto:rbbaprianto@gmail.com" target="_blank">mail me</a> regarding any issue</i>
+<i>Please go through my profile and feel free to clone/fork <a href="https://github.com/rbbaprianto">projects</a>. Also you can mail to me <a href="mailto:rbbaprianto@gmail.com" target="_blank">mail me</a> regarding any issue</i>
 
 <br />
 
